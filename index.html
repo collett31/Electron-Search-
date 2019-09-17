@@ -5,9 +5,29 @@
     <title>Search Em</title>
   </head>
   <body>
-    <script src = "seniorProject.js">
-        
+    <!--<h1>Hello World!</h1>-->
+    <script>
+    function readTextFile(file)
+{
+    let allText = "";
+    var rawFile = new XMLHttpRequest();
+    rawFile.open("GET", file, false);
+    rawFile.onreadystatechange = function ()
+    {
+        if(rawFile.readyState === 4)
+        {
+            if(rawFile.status === 200 || rawFile.status == 0)
+            {
+                allText = rawFile.responseText;
+                alert(allText);
+                console.log('here');
+            }
+        }
+    }
+    return allText;
+}
+
+document.write(readTextFile('eric2000.txt'));
     </script>
-    <h1>Hello World!</h1>
   </body>
 </html>

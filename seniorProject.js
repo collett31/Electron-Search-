@@ -16,6 +16,6 @@ function readTextFile(file)
     rawFile.send(null);
 }
 
-console.log(readTextFile('eric2000.txt'));
+document.writereadTextFile('eric2000.txt');
 
 
