@@ -98,75 +98,122 @@
     <!--<h1>Hello World!</h1>-->
     
         <h3>Search by: </h3>
+
+        <!-- drop down list to select type of search -->
         <select required>
             <option value="Author" selected>Author's Name</option>
             <option value="Title">Title</option>
             <option value="keyword">Keyword</option>
         </select>
-       
-        <form action="/action_page.php"></form>
+
+       <!-- author form-->
+        <form name="author" action="/action_page.php" onsubmit="return validateFormName()"></form>
             First name: <input type="text" name="fname"><br>
             Last name: <input type="text" name="lname"><br>
             <input type="submit" value="Search">
             <input type="submit" value="Advance Search">
         </form>
+
         <br><br>
-        <form action="/action_page.php"></form>
+        <!-- title form-->
+        <form name="title" action="/action_page.php" onsubmit="return validateFormTitle()"></form>
             Title: <input type="text" name="Title"><br>
             <input type="submit" value="Search">
             <input type="submit" value="Advance Search">
         </form>
         
         <br><br>
-        <form action="/action_page.php"></form>
-            Keyword: <input type="text" name="keyword"><br>
+        <!-- keyword form-->
+        <form name="keyword" action="/action_page.php" onsubmit="return validateFormKeyword()"></form>
+            Keyword: <input type="text" name="Keyword"><br>
             <input type="submit" value="Search">
             <input type="submit" value="Advance Search">
         </form>
         <p id="demo"></p>
     <input type="file" name="file" id="file">
-    
+
+    <script>
+      //validate input for author name
+        function validateFormName() 
+        {
+          var x = document.forms["author"]["fname"].value;
+          var y = document.forms["author"]["lname"].value;
+          if (x == "" || y == "") {
+            alert("Name must be filled out");
+            return false;
+          }
+          return true;
+        }
+        //validate input for title
+        function validateFormTitle() 
+        {
+          var x = document.forms["title"]["Title"].value;
+          if (x == "") {
+            alert("Title must be filled out");
+            return false;
+          }
+          return true;
+        }
+        //validate input for the keyword
+        function validateFormKeyword() 
+        {
+          var x = document.forms["keyword"]["Keyword"].value;
+          if (x == "") {
+            alert("Keyword must be filled out");
+            return false;
+          }
+          return true;
+        }
+    </script>
+
     <script>
         document.getElementById('file').onchange = function(){
+          var fs = require("fs");
+          let data = {};
             var file = this.files[0];
             var reader = new FileReader();
+
             reader.onload = function(progressEvent){
+              // By lines
+              const separator = /\s+-+\s+\w+\s+[0-9][0-9]\s+\w+\s+[0-9][0-9]\s+-+/;
+              let currentCitation = 0;
+              var lines = this.result.split('\r\n');
+              for(var line = 0; line < lines.length; line++)
+              {
+                let currentLine = lines[line];
 
-            // By lines
-            var lines = this.result.split('\n');
+                if (currentLine.match(separator)) {
+                  currentCitation++;
+                  continue;
+                }
 
-    
-                console.log()
-            for(var line = 0; line < lines.length; line++)
-            {
-                console.log(lines[line]);
-                var str = lines[line];
-                 console.log("\n.................Next Line.................\n");
-                var n = str.indexOf(":");
+                var n = currentLine.indexOf(":");
                 if (n > 0)
                 {
-                        var keyValue = str.substring(0, n);
-                        var value = str.substring(n+1, str.length);   
-                        var fs = require("fs");
-                        var sampleObject = {
-                            [keyValue]: value
-                        };
-                    fs.appendFile('./object.json', JSON.stringify(sampleObject), (err) => {
-                            if (err) {
-                                console.error(err);
-                                return;
-                            };
-                            console.log("File has been created");
-                        });
-                    document.getElementById("demo").innerHTML = n;
-             }
-            }
-             
+                  let keyAndValue = currentLine.split(':');
+                  let [ key, value ] = keyAndValue;
+
+                  if (data[`citation-${currentCitation}`]) {
+                    data[`citation-${currentCitation}`][key] = value.trim();
+                  } else {
+                    data[`citation-${currentCitation}`] = {};
+                    data[`citation-${currentCitation}`][key] = value.trim();
+                  }
+                } else {
+                  data[`citation-${currentCitation}`][currentLine] = true;
+                }
+              }
+
+              fs.writeFile('./object.json', JSON.stringify(data, null, 2), (err) => {
+                if (err) {
+                  console.error(err);
+                    return;
+                };
+                console.log("File has been created");
+              });
             };
             reader.readAsText(file);
-            };
-            //here
-
+          };
     </script>
   </body>
 </html>
