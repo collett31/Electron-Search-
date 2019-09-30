@@ -1,5 +1,4 @@
   --------------------------- CITATION   01 OF   99 -------------------------
-
 Authors:  Oliver, Ron. Oliver, Helen
 Title:  Information Access and Retrieval with Hypermedia Information Systems.by Oliver, Ron; Oliver, Helen
 Pub.Date:  1996
@@ -216,8 +215,7 @@ Trainers
 Users (Information)
 ISSN:  0306-4573
   --------------------------- CITATION   10 OF   99 -------------------------
-Authors:  Cronin, Blaise
-Hert, Carol A.
+Authors:  Cronin, Blaise, Hert, Carol A.
 Title:  Scholarly Foraging and Network Discovery Tools. / by Cronin, Blaise;
  Hert, Carol A.
 Pub.Date:  1995
@@ -445,8 +443,7 @@ Research Tools
 Social Scientists
 ISSN:  0010-4817
   --------------------------- CITATION   19 OF   99 -------------------------
-Authors:  Jarvelin, Kalervo
-Niemi, Timo
+Authors:  Jarvelin, Kalervo, Niemi, Timo
 Title:  Deductive Information Retrieval Based on Classifications. / by Jarvelin, Kalervo; Niemi, Timo
 Pub.Date:  1993
 Document no.:  EJ476369
@@ -621,8 +618,7 @@ Strategic Planning
 Teaching Methods
 ISSN:  0889-9371
   --------------------------- CITATION   27 OF   99 -------------------------
-Authors:  Spink, Amanda
-Beatty, Leslie
+Authors:  Spink, Amanda, Beatty, Leslie
 Title:  Multiple Search Sessions by End-Users of Online Catalogs and CD-ROM Databases. / by Spink, Amanda; Beatty, Leslie
 Pub.Date:  1995
 Document no.:  EJ513858
@@ -651,8 +647,7 @@ Tables (Data)
 Use Studies
 ISSN:  0160-0044
   --------------------------- CITATION   28 OF   99 -------------------------
-Authors:  Wildemuth, Barbara M.
-O'Neill, Ann L.
+Authors:  Wildemuth, Barbara M. O'Neill, Ann L.
 Title:  The "Known" in Known-Item Searches: Empirical Support for User-Centered Design. / by Wildemuth, Barbara M.; O'Neill, Ann L.
 Pub.Date:  1995
 Document no.:  EJ510315

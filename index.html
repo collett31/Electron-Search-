@@ -4,165 +4,176 @@
         <title>Search Em</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8">
         <style>
-            .dropbtn {
-            background-color: #4CAF50;
-            color: white;
-            padding: 16px;
-            font-size: 16px;
-            border: none;
-            cursor: pointer;
-            }
-
-            .dropbtn:hover, .dropbtn:focus {
-            background-color: #3e8e41;
-            }
-
-            #myInput {
-            box-sizing: border-box;
-            background-image: url('searchicon.png');
-            background-position: 14px 12px;
-            background-repeat: no-repeat;
-            font-size: 16px;
-            padding: 14px 20px 12px 45px;
-            border: none;
-            border-bottom: 1px solid #ddd;
-            }
-
-            #myInput:focus {outline: 3px solid #ddd;}
-
-            .dropdown {
-            position: relative;
-            display: inline-block;
-            }
-
-            .dropdown-content {
-            display: none;
-            position: absolute;
-            background-color: #f6f6f6;
-            min-width: 230px;
-            overflow: auto;
-            border: 1px solid #ddd;
-            z-index: 1;
-            }
-
-            .dropdown-content a {
-            color: black;
-            padding: 12px 16px;
-            text-decoration: none;
-            display: block;
-            }
-
-            .dropdown a:hover {background-color: #ddd;}
-
-            .show {display: block;}
-        </style>
+           h3.hTag {display: inline;}
+           fieldset>span { display: block; }
+           fieldset[data-show-advanced='false'] { display: none; }
+           fieldset[data-show-advanced='true'] { display: block; }
+        </style>      
   </head>
   <body>
         <h2>Search Em</h2>
-        <p>Click begin to start a search entry</p>
-        
-        <div class="dropdown">
-          <button onclick="myFunction()" class="dropbtn">Begin Search</button>
-          <div id="myDropdown" class="dropdown-content">
-            <input type="text" placeholder="Search.." id="myInput" onkeyup="filterFunction()">
-            <a href="#about">Author's Name</a>
-            <a href="#base">Title</a>
-            <a href="#blog">Keyword</a>
-          </div>
-        </div>
-        
-        <script>
-        /* When the user clicks on the button,
-        toggle between hiding and showing the dropdown content */
-        function myFunction() {
-          document.getElementById("myDropdown").classList.toggle("show");
-        }
-        
-        function filterFunction() {
-          var input, filter, ul, li, a, i;
-          input = document.getElementById("myInput");
-          filter = input.value.toUpperCase();
-          div = document.getElementById("myDropdown");
-          a = div.getElementsByTagName("a");
-          for (i = 0; i < a.length; i++) {
-            txtValue = a[i].textContent || a[i].innerText;
-            if (txtValue.toUpperCase().indexOf(filter) > -1) {
-              a[i].style.display = "";
-            } else {
-              a[i].style.display = "none";
-            }
-          }
-        }
-        </script>
+  
+        <form  class="search-form">
+          <h3 class="hTag">Search by: </h3>  
+          <select required class='search-type'>
+              <option value="Authors" selected>Author's Name</option>
+              <option value="Title">Title</option>
+              <option value="Keyword">Keyword</option>
+          </select>
+          
+          <input type="text" name="search-term" id = "result" placeholder="Search here" required><br><br>
 
-    <!--<h1>Hello World!</h1>-->
-    
-        <h3>Search by: </h3>
+          <fieldset data-show-advanced='false'>
+            <span >
+              <select required>
+                  <option value="Author" selected>Author's Name</option>
+                  <option value="Title">Title</option>
+                  <option value="keyword">Keyword</option>
+              </select>
+              <input type="text" name='advanced-1'>
+              <select required>
+                  <option value="or">OR</option>
+                  <option value="and">AND</option>
+              </select>
+              <span>
+                <label for="advanced-1-not">NOT</label>
+                <input type="checkbox" name="advanced-1-not" id="advanced-1-not">
+              </span>
+            </span>
+            <span >
+                <select required>
+                    <option value="Author" selected>Author's Name</option>
+                    <option value="Title">Title</option>
+                    <option value="keyword">Keyword</option>
+                </select>
+                <input type="text" name='advanced-1'>
+                <select required>
+                    <option value="or">OR</option>
+                    <option value="and">AND</option>
+                </select>
+                <span>
+                  <label for="advanced-1-not">NOT</label>
+                  <input type="checkbox" name="advanced-1-not" id="advanced-1-not">
+                </span>
+              </span>
+              <span >
+                  <select required>
+                      <option value="Author" selected>Author's Name</option>
+                      <option value="Title">Title</option>
+                      <option value="keyword">Keyword</option>
+                  </select>
+                  <input type="text" name='advanced-1'>
+                  <select required>
+                      <option value="or">OR</option>
+                      <option value="and">AND</option>
+                  </select>
+                  <span>
+                    <label for="advanced-1-not">NOT</label>
+                    <input type="checkbox" name="advanced-1-not" id="advanced-1-not">
+                  </span>
+                </span>
+                <span >
+                    <select required>
+                        <option value="Author" selected>Author's Name</option>
+                        <option value="Title">Title</option>
+                        <option value="keyword">Keyword</option>
+                    </select>
+                    <input type="text" name='advanced-1'>
+                    <select required>
+                        <option value="or">OR</option>
+                        <option value="and">AND</option>
+                    </select>
+                    <span>
+                      <label for="advanced-1-not">NOT</label>
+                      <input type="checkbox" name="advanced-1-not" id="advanced-1-not">
+                    </span>
+                  </span>
+                  <span >
+                      <select required>
+                          <option value="Author" selected>Author's Name</option>
+                          <option value="Title">Title</option>
+                          <option value="keyword">Keyword</option>
+                      </select>
+                      <input type="text" name='advanced-1'>
+                      <select required>
+                          <option value="or">OR</option>
+                          <option value="and">AND</option>
+                      </select>
+                      <span>
+                        <label for="advanced-1-not">NOT</label>
+                        <input type="checkbox" name="advanced-1-not" id="advanced-1-not">
+                      </span>
+                    </span>
+          </fieldset>
 
-        <!-- drop down list to select type of search -->
-        <select required>
-            <option value="Author" selected>Author's Name</option>
-            <option value="Title">Title</option>
-            <option value="keyword">Keyword</option>
-        </select>
-
-       <!-- author form-->
-        <form name="author" action="/action_page.php" onsubmit="return validateFormName()"></form>
-            First name: <input type="text" name="fname"><br>
-            Last name: <input type="text" name="lname"><br>
-            <input type="submit" value="Search">
-            <input type="submit" value="Advance Search">
+          <input type="submit" value="Search" >
+          <span>
+            <label for="advanced">Advanced Search</label>
+            <input type="checkbox" name="advanced-search" id="advanced">
+          </span>
         </form>
-
-        <br><br>
-        <!-- title form-->
-        <form name="title" action="/action_page.php" onsubmit="return validateFormTitle()"></form>
-            Title: <input type="text" name="Title"><br>
-            <input type="submit" value="Search">
-            <input type="submit" value="Advance Search">
-        </form>
-        
-        <br><br>
-        <!-- keyword form-->
-        <form name="keyword" action="/action_page.php" onsubmit="return validateFormKeyword()"></form>
-            Keyword: <input type="text" name="Keyword"><br>
-            <input type="submit" value="Search">
-            <input type="submit" value="Advance Search">
-        </form>
-        <p id="demo"></p>
-    <input type="file" name="file" id="file">
+        <input type="file" name="file" id="file">
 
     <script>
-      //validate input for author name
-        function validateFormName() 
-        {
-          var x = document.forms["author"]["fname"].value;
-          var y = document.forms["author"]["lname"].value;
-          if (x == "" || y == "") {
-            alert("Name must be filled out");
-            return false;
+      document.querySelector('.search-form').addEventListener('submit', function(e) {
+        e.preventDefault();
+
+        // check if advanced search enabled
+        const isAdvancedEnabled = document.getElementById('advanced').checked;
+
+        if (isAdvancedEnabled) {
+
+        } else {
+          // get search term
+          const searchTerm = document.getElementById("result").value
+          
+          // get search type
+          const searchType = document.querySelector('.search-type').value;
+
+          switch (searchType) {
+            case 'Authors':
+              break;
+            
+            case 'Title':
+              break;
+
+            case 'Keyword':
+              break;
           }
-          return true;
         }
-        //validate input for title
-        function validateFormTitle() 
-        {
-          var x = document.forms["title"]["Title"].value;
-          if (x == "") {
-            alert("Title must be filled out");
-            return false;
+        
+          var results = []; 
+          //console.log(txt);
+
+          if( keySearch == "Authors"){
+           
+            for (var i = 0 ; i < obj.list.length ; i++)
+            {
+                if (object.json[i][keySearch] == valueSearch) {
+                    results.push(obj.list[i]);
+                }
+            }
+            console.log(results);
+          } else if ( keySearch == 'Title'){
+            
           }
-          return true;
-        }
-        //validate input for the keyword
-        function validateFormKeyword() 
+          else{
+            
+          }  
+      });
+
+        document.querySelector('#advanced').onchange = function(e) 
         {
-          var x = document.forms["keyword"]["Keyword"].value;
-          if (x == "") {
-            alert("Keyword must be filled out");
-            return false;
-          }
-          return true;
+          const fieldset = document.querySelector('form > fieldset');
+          const advancedShowing = this.checked;
+
+          fieldset.setAttribute(
+            'data-show-advanced', 
+            advancedShowing
+          )
+
+          document.querySelector('.search-type').disabled = advancedShowing;
+          document.querySelector('input[name="search-term"').disabled = advancedShowing;
         }
     </script>
 
@@ -200,8 +211,13 @@
                     data[`citation-${currentCitation}`][key] = value.trim();
                   }
                 } else {
-                  data[`citation-${currentCitation}`][currentLine] = true;
-                }
+                  if (data[`citation-${currentCitation}`]) {
+                    data[`citation-${currentCitation}`][currentLine] = true;
+                  } else {
+                    data[`citation-${currentCitation}`] = {};
+                    data[`citation-${currentCitation}`][currentLine] = true;
+                  }
+                }              
               }
 
               fs.writeFile('./object.json', JSON.stringify(data, null, 2), (err) => {
