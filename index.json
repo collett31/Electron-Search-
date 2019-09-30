@@ -1,0 +1,3411 @@
+{
+  "Authors": {
+    "oliver": [
+      "citation-1"
+    ],
+    "ron": [
+      "citation-1"
+    ],
+    "helen": [
+      "citation-1"
+    ],
+    "kimmel": [
+      "citation-2"
+    ],
+    "stacey": [
+      "citation-2"
+    ],
+    "lang": [
+      "citation-3"
+    ],
+    "william": [
+      "citation-3"
+    ],
+    "steve": [
+      "citation-3"
+    ],
+    "grigsby": [
+      "citation-3"
+    ],
+    "mary": [
+      "citation-3"
+    ],
+    "shaw": [
+      "citation-4"
+    ],
+    "deborah": [
+      "citation-4"
+    ],
+    "pirkola": [
+      "citation-5"
+    ],
+    "ari": [
+      "citation-5"
+    ],
+    "jarvelin": [
+      "citation-5",
+      "citation-19"
+    ],
+    "kalervo": [
+      "citation-5",
+      "citation-19"
+    ],
+    "savoy": [
+      "citation-6"
+    ],
+    "jacques": [
+      "citation-6"
+    ],
+    "aldous": [
+      "citation-7"
+    ],
+    "k": [
+      "citation-7"
+    ],
+    "j": [
+      "citation-7"
+    ],
+    "o'kane": [
+      "citation-8"
+    ],
+    "kevin": [
+      "citation-8"
+    ],
+    "c": [
+      "citation-8"
+    ],
+    "hahn": [
+      "citation-9"
+    ],
+    "trudi": [
+      "citation-9"
+    ],
+    "bellardo": [
+      "citation-9"
+    ],
+    "cronin": [
+      "citation-10"
+    ],
+    "blaise": [
+      "citation-10"
+    ],
+    "hert": [
+      "citation-10"
+    ],
+    "carol": [
+      "citation-10"
+    ],
+    "a": [
+      "citation-10",
+      "citation-23",
+      "citation-25"
+    ],
+    "burton": [
+      "citation-11"
+    ],
+    "adrian": [
+      "citation-11"
+    ],
+    "p": [
+      "citation-11",
+      "citation-16"
+    ],
+    "chen": [
+      "citation-12",
+      "citation-17"
+    ],
+    "l": [
+      "citation-12",
+      "citation-18",
+      "citation-26",
+      "citation-28"
+    ],
+    "t": [
+      "citation-12"
+    ],
+    "moffat": [
+      "citation-13"
+    ],
+    "alistair": [
+      "citation-13"
+    ],
+    "dalrymple": [
+      "citation-14"
+    ],
+    "prudence": [
+      "citation-14"
+    ],
+    "w": [
+      "citation-14"
+    ],
+    "larson": [
+      "citation-15"
+    ],
+    "ray": [
+      "citation-15"
+    ],
+    "r": [
+      "citation-15"
+    ],
+    "silvester": [
+      "citation-16"
+    ],
+    "june": [
+      "citation-16"
+    ],
+    "zhengxin": [
+      "citation-17"
+    ],
+    "touwen": [
+      "citation-18"
+    ],
+    "jeroen": [
+      "citation-18"
+    ],
+    "niemi": [
+      "citation-19"
+    ],
+    "timo": [
+      "citation-19"
+    ],
+    "motzkin": [
+      "citation-20"
+    ],
+    "d": [
+      "citation-20"
+    ],
+    "ingwersen": [
+      "citation-21"
+    ],
+    "peter": [
+      "citation-21"
+    ],
+    "turner": [
+      "citation-22"
+    ],
+    "pat": [
+      "citation-22"
+    ],
+    "jansen": [
+      "citation-23"
+    ],
+    "barbara": [
+      "citation-23",
+      "citation-28"
+    ],
+    "liang": [
+      "citation-24"
+    ],
+    "tyne": [
+      "citation-24"
+    ],
+    "duffield": [
+      "citation-25"
+    ],
+    "judith": [
+      "citation-25"
+    ],
+    "pappas": [
+      "citation-26"
+    ],
+    "marjorie": [
+      "citation-26"
+    ],
+    "spink": [
+      "citation-27"
+    ],
+    "amanda": [
+      "citation-27"
+    ],
+    "beatty": [
+      "citation-27"
+    ],
+    "leslie": [
+      "citation-27"
+    ],
+    "wildemuth": [
+      "citation-28"
+    ],
+    "m": [
+      "citation-28"
+    ],
+    "o'neill": [
+      "citation-28"
+    ],
+    "ann": [
+      "citation-28"
+    ],
+    "tillotson": [
+      "citation-29"
+    ],
+    "joy": [
+      "citation-29"
+    ],
+    "watson-boone": [
+      "citation-30"
+    ],
+    "rebecca": [
+      "citation-30"
+    ]
+  },
+  "Title": {
+    "information": [
+      "citation-1",
+      "citation-3",
+      "citation-6",
+      "citation-7",
+      "citation-19",
+      "citation-21",
+      "citation-23",
+      "citation-30"
+    ],
+    "access": [
+      "citation-1",
+      "citation-11",
+      "citation-12",
+      "citation-14"
+    ],
+    "and": [
+      "citation-1",
+      "citation-4",
+      "citation-5",
+      "citation-10",
+      "citation-12",
+      "citation-13",
+      "citation-15",
+      "citation-16",
+      "citation-18",
+      "citation-24",
+      "citation-27",
+      "citation-30"
+    ],
+    "retrieval": [
+      "citation-1",
+      "citation-7",
+      "citation-19",
+      "citation-20",
+      "citation-21"
+    ],
+    "with": [
+      "citation-1"
+    ],
+    "hypermedia": [
+      "citation-1"
+    ],
+    "systemsby": [
+      "citation-1"
+    ],
+    "oliver": [
+      "citation-1"
+    ],
+    "ron;": [
+      "citation-1"
+    ],
+    "helen": [
+      "citation-1"
+    ],
+    "robot-generated": [
+      "citation-2"
+    ],
+    "databases": [
+      "citation-2",
+      "citation-27"
+    ],
+    "on": [
+      "citation-2",
+      "citation-5",
+      "citation-12",
+      "citation-19",
+      "citation-20"
+    ],
+    "the": [
+      "citation-2",
+      "citation-3",
+      "citation-5",
+      "citation-7",
+      "citation-9",
+      "citation-18",
+      "citation-28",
+      "citation-29",
+      "citation-30"
+    ],
+    "world": [
+      "citation-2"
+    ],
+    "wide": [
+      "citation-2"
+    ],
+    "web": [
+      "citation-2"
+    ],
+    "/": [
+      "citation-2",
+      "citation-5",
+      "citation-6",
+      "citation-8",
+      "citation-9",
+      "citation-10",
+      "citation-12",
+      "citation-13",
+      "citation-14",
+      "citation-15",
+      "citation-16",
+      "citation-18",
+      "citation-19",
+      "citation-20",
+      "citation-24",
+      "citation-26",
+      "citation-27",
+      "citation-29",
+      "citation-30"
+    ],
+    "by": [
+      "citation-2",
+      "citation-4",
+      "citation-5",
+      "citation-6",
+      "citation-7",
+      "citation-8",
+      "citation-9",
+      "citation-10",
+      "citation-12",
+      "citation-13",
+      "citation-14",
+      "citation-15",
+      "citation-16",
+      "citation-18",
+      "citation-19",
+      "citation-20",
+      "citation-24",
+      "citation-26",
+      "citation-27",
+      "citation-29",
+      "citation-30"
+    ],
+    "kimmel": [
+      "citation-2"
+    ],
+    "stacey": [
+      "citation-2"
+    ],
+    "statistics": [
+      "citation-3"
+    ],
+    "for": [
+      "citation-3",
+      "citation-6",
+      "citation-7",
+      "citation-23",
+      "citation-24"
+    ],
+    "measuring": [
+      "citation-3"
+    ],
+    "efficiency": [
+      "citation-3"
+    ],
+    "of": [
+      "citation-3",
+      "citation-5",
+      "citation-7",
+      "citation-9",
+      "citation-12",
+      "citation-15",
+      "citation-20",
+      "citation-21",
+      "citation-27",
+      "citation-30"
+    ],
+    "electronic": [
+      "citation-3",
+      "citation-15"
+    ],
+    "bibliographic": [
+      "citation-4"
+    ],
+    "database": [
+      "citation-4",
+      "citation-5",
+      "citation-7",
+      "citation-14",
+      "citation-17"
+    ],
+    "searching": [
+      "citation-4",
+      "citation-5",
+      "citation-6",
+      "citation-26",
+      "citation-29"
+    ],
+    "graduate": [
+      "citation-4"
+    ],
+    "students": [
+      "citation-4"
+    ],
+    "in": [
+      "citation-4",
+      "citation-5",
+      "citation-6",
+      "citation-8",
+      "citation-28"
+    ],
+    "language": [
+      "citation-4"
+    ],
+    "literature": [
+      "citation-4"
+    ],
+    "effect": [
+      "citation-5"
+    ],
+    "anaphor": [
+      "citation-5"
+    ],
+    "ellipsis": [
+      "citation-5"
+    ],
+    "resolution": [
+      "citation-5"
+    ],
+    "proximity": [
+      "citation-5"
+    ],
+    "a": [
+      "citation-5",
+      "citation-7",
+      "citation-15",
+      "citation-24"
+    ],
+    "text": [
+      "citation-5"
+    ],
+    "pirkola": [
+      "citation-5"
+    ],
+    "ari;": [
+      "citation-5"
+    ],
+    "jarvelin": [
+      "citation-5",
+      "citation-19"
+    ],
+    "kalervo": [
+      "citation-5"
+    ],
+    "an": [
+      "citation-6",
+      "citation-20",
+      "citation-22"
+    ],
+    "extended": [
+      "citation-6"
+    ],
+    "vector-processing": [
+      "citation-6"
+    ],
+    "scheme": [
+      "citation-6"
+    ],
+    "hypertext": [
+      "citation-6"
+    ],
+    "systems": [
+      "citation-6",
+      "citation-12",
+      "citation-14"
+    ],
+    "savoy": [
+      "citation-6"
+    ],
+    "jacques": [
+      "citation-6"
+    ],
+    "system": [
+      "citation-7",
+      "citation-20"
+    ],
+    "automatic": [
+      "citation-7"
+    ],
+    "from": [
+      "citation-7",
+      "citation-8"
+    ],
+    "specialist": [
+      "citation-7"
+    ],
+    "aldous": [
+      "citation-7"
+    ],
+    "k": [
+      "citation-7",
+      "citation-14"
+    ],
+    "j": [
+      "citation-7"
+    ],
+    "generating": [
+      "citation-8"
+    ],
+    "hierarchical": [
+      "citation-8"
+    ],
+    "document": [
+      "citation-8",
+      "citation-11",
+      "citation-20"
+    ],
+    "indices": [
+      "citation-8"
+    ],
+    "common": [
+      "citation-8"
+    ],
+    "denominators": [
+      "citation-8"
+    ],
+    "large": [
+      "citation-8"
+    ],
+    "collections": [
+      "citation-8"
+    ],
+    "o'kane": [
+      "citation-8"
+    ],
+    "kevin": [
+      "citation-8"
+    ],
+    "c": [
+      "citation-8"
+    ],
+    "pioneers": [
+      "citation-9"
+    ],
+    "online": [
+      "citation-9",
+      "citation-27"
+    ],
+    "age": [
+      "citation-9"
+    ],
+    "hahn": [
+      "citation-9"
+    ],
+    "trudi": [
+      "citation-9"
+    ],
+    "bellardo": [
+      "citation-9"
+    ],
+    "scholarly": [
+      "citation-10"
+    ],
+    "foraging": [
+      "citation-10"
+    ],
+    "network": [
+      "citation-10"
+    ],
+    "discovery": [
+      "citation-10"
+    ],
+    "tools": [
+      "citation-10"
+    ],
+    "cronin": [
+      "citation-10"
+    ],
+    "blaise;": [
+      "citation-10"
+    ],
+    "gui-based": [
+      "citation-11"
+    ],
+    "via": [
+      "citation-11"
+    ],
+    "satcomms": [
+      "citation-11"
+    ],
+    "efficient": [
+      "citation-12",
+      "citation-13",
+      "citation-20"
+    ],
+    "organization": [
+      "citation-12"
+    ],
+    "multi-dimensional": [
+      "citation-12"
+    ],
+    "datasets": [
+      "citation-12"
+    ],
+    "tertiary": [
+      "citation-12"
+    ],
+    "storage": [
+      "citation-12"
+    ],
+    "chen": [
+      "citation-12"
+    ],
+    "l": [
+      "citation-12",
+      "citation-18",
+      "citation-26"
+    ],
+    "t;": [
+      "citation-12"
+    ],
+    "others": [
+      "citation-12",
+      "citation-13",
+      "citation-16",
+      "citation-24"
+    ],
+    "memory": [
+      "citation-13"
+    ],
+    "ranking": [
+      "citation-13"
+    ],
+    "moffat": [
+      "citation-13"
+    ],
+    "alistair;": [
+      "citation-13"
+    ],
+    "dalrymple": [
+      "citation-14"
+    ],
+    "prudence": [
+      "citation-14"
+    ],
+    "w;": [
+      "citation-14"
+    ],
+    "roderer": [
+      "citation-14"
+    ],
+    "nancy": [
+      "citation-14"
+    ],
+    "design": [
+      "citation-15"
+    ],
+    "development": [
+      "citation-15"
+    ],
+    "network-based": [
+      "citation-15"
+    ],
+    "library": [
+      "citation-15"
+    ],
+    "larson": [
+      "citation-15"
+    ],
+    "ray": [
+      "citation-15"
+    ],
+    "r": [
+      "citation-15"
+    ],
+    "machine-aided": [
+      "citation-16"
+    ],
+    "indexing": [
+      "citation-16"
+    ],
+    "at": [
+      "citation-16"
+    ],
+    "nasa": [
+      "citation-16"
+    ],
+    "silvester": [
+      "citation-16"
+    ],
+    "june": [
+      "citation-16"
+    ],
+    "p;": [
+      "citation-16"
+    ],
+    "enhancing": [
+      "citation-17"
+    ],
+    "management": [
+      "citation-17"
+    ],
+    "to": [
+      "citation-17"
+    ],
+    "knowledge": [
+      "citation-17"
+    ],
+    "base": [
+      "citation-17"
+    ],
+    "medieval": [
+      "citation-18"
+    ],
+    "early": [
+      "citation-18"
+    ],
+    "modern": [
+      "citation-18"
+    ],
+    "data": [
+      "citation-18"
+    ],
+    "bank": [
+      "citation-18"
+    ],
+    "touwen": [
+      "citation-18"
+    ],
+    "jeroen": [
+      "citation-18"
+    ],
+    "deductive": [
+      "citation-19"
+    ],
+    "based": [
+      "citation-19"
+    ],
+    "classifications": [
+      "citation-19"
+    ],
+    "kalervo;": [
+      "citation-19"
+    ],
+    "niemi": [
+      "citation-19"
+    ],
+    "timo": [
+      "citation-19"
+    ],
+    "high": [
+      "citation-20"
+    ],
+    "performance": [
+      "citation-20"
+    ],
+    "updates": [
+      "citation-20"
+    ],
+    "within": [
+      "citation-20"
+    ],
+    "motzkin": [
+      "citation-20"
+    ],
+    "d": [
+      "citation-20"
+    ],
+    "cognitive": [
+      "citation-21"
+    ],
+    "perspectives": [
+      "citation-21"
+    ],
+    "interaction": [
+      "citation-21"
+    ],
+    "netting": [
+      "citation-22"
+    ],
+    "ally": [
+      "citation-22"
+    ],
+    "reading": [
+      "citation-23"
+    ],
+    "optimal": [
+      "citation-24"
+    ],
+    "weight": [
+      "citation-24"
+    ],
+    "assignment": [
+      "citation-24"
+    ],
+    "chinese": [
+      "citation-24"
+    ],
+    "signature": [
+      "citation-24"
+    ],
+    "file": [
+      "citation-24"
+    ],
+    "liang": [
+      "citation-24"
+    ],
+    "tyne;": [
+      "citation-24"
+    ],
+    "search": [
+      "citation-25",
+      "citation-27"
+    ],
+    "models": [
+      "citation-25"
+    ],
+    "analytical": [
+      "citation-26"
+    ],
+    "pappas": [
+      "citation-26"
+    ],
+    "marjorie": [
+      "citation-26"
+    ],
+    "multiple": [
+      "citation-27"
+    ],
+    "sessions": [
+      "citation-27"
+    ],
+    "end-users": [
+      "citation-27"
+    ],
+    "catalogs": [
+      "citation-27"
+    ],
+    "cd-rom": [
+      "citation-27"
+    ],
+    "spink": [
+      "citation-27"
+    ],
+    "amanda;": [
+      "citation-27"
+    ],
+    "beatty": [
+      "citation-27"
+    ],
+    "leslie": [
+      "citation-27"
+    ],
+    "\"known\"": [
+      "citation-28"
+    ],
+    "known-item": [
+      "citation-28"
+    ],
+    "searches": [
+      "citation-28"
+    ],
+    "is": [
+      "citation-29"
+    ],
+    "keyword": [
+      "citation-29"
+    ],
+    "answer?": [
+      "citation-29"
+    ],
+    "tillotson": [
+      "citation-29"
+    ],
+    "joy": [
+      "citation-29"
+    ],
+    "needs": [
+      "citation-30"
+    ],
+    "habits": [
+      "citation-30"
+    ],
+    "humanities": [
+      "citation-30"
+    ],
+    "scholars": [
+      "citation-30"
+    ],
+    "watson-boone": [
+      "citation-30"
+    ],
+    "rebecca": [
+      "citation-30"
+    ]
+  },
+  "Abstract": {
+    "3": [
+      "citation-28"
+    ],
+    "10": [
+      "citation-4"
+    ],
+    "12": [
+      "citation-16"
+    ],
+    "18": [
+      "citation-20"
+    ],
+    "27": [
+      "citation-19"
+    ],
+    "30": [
+      "citation-17"
+    ],
+    "95": [
+      "citation-21"
+    ],
+    "103": [
+      "citation-28"
+    ],
+    "154": [
+      "citation-5"
+    ],
+    "386": [
+      "citation-28"
+    ],
+    "1983": [
+      "citation-30"
+    ],
+    "1992": [
+      "citation-30"
+    ],
+    "describes": [
+      "citation-1",
+      "citation-3",
+      "citation-8",
+      "citation-9",
+      "citation-12",
+      "citation-13",
+      "citation-15",
+      "citation-16",
+      "citation-20",
+      "citation-22",
+      "citation-25",
+      "citation-26"
+    ],
+    "an": [
+      "citation-1",
+      "citation-2",
+      "citation-6",
+      "citation-7",
+      "citation-8",
+      "citation-9",
+      "citation-13",
+      "citation-17",
+      "citation-18",
+      "citation-19",
+      "citation-20"
+    ],
+    "investigation": [
+      "citation-1"
+    ],
+    "of": [
+      "citation-1",
+      "citation-2",
+      "citation-3",
+      "citation-4",
+      "citation-5",
+      "citation-6",
+      "citation-7",
+      "citation-8",
+      "citation-9",
+      "citation-10",
+      "citation-12",
+      "citation-13",
+      "citation-14",
+      "citation-15",
+      "citation-16",
+      "citation-17",
+      "citation-18",
+      "citation-19",
+      "citation-20",
+      "citation-21",
+      "citation-23",
+      "citation-24",
+      "citation-26",
+      "citation-27",
+      "citation-28",
+      "citation-29",
+      "citation-30"
+    ],
+    "the": [
+      "citation-1",
+      "citation-2",
+      "citation-3",
+      "citation-4",
+      "citation-5",
+      "citation-6",
+      "citation-7",
+      "citation-8",
+      "citation-9",
+      "citation-10",
+      "citation-11",
+      "citation-12",
+      "citation-13",
+      "citation-14",
+      "citation-15",
+      "citation-16",
+      "citation-17",
+      "citation-18",
+      "citation-19",
+      "citation-20",
+      "citation-21",
+      "citation-22",
+      "citation-24",
+      "citation-25",
+      "citation-27",
+      "citation-28",
+      "citation-30"
+    ],
+    "search": [
+      "citation-1",
+      "citation-2",
+      "citation-4",
+      "citation-8",
+      "citation-14",
+      "citation-18",
+      "citation-25",
+      "citation-26",
+      "citation-27",
+      "citation-29"
+    ],
+    "strategies": [
+      "citation-1",
+      "citation-4",
+      "citation-18",
+      "citation-26"
+    ],
+    "employed": [
+      "citation-1"
+    ],
+    "by": [
+      "citation-1",
+      "citation-10",
+      "citation-13",
+      "citation-18",
+      "citation-22",
+      "citation-25",
+      "citation-26"
+    ],
+    "novice": [
+      "citation-1"
+    ],
+    "users": [
+      "citation-1",
+      "citation-7",
+      "citation-8",
+      "citation-27",
+      "citation-28"
+    ],
+    "interactive": [
+      "citation-1"
+    ],
+    "information": [
+      "citation-1",
+      "citation-3",
+      "citation-4",
+      "citation-5",
+      "citation-6",
+      "citation-7",
+      "citation-9",
+      "citation-10",
+      "citation-16",
+      "citation-17",
+      "citation-19",
+      "citation-21",
+      "citation-22",
+      "citation-27",
+      "citation-30"
+    ],
+    "system": [
+      "citation-1",
+      "citation-7",
+      "citation-11",
+      "citation-16"
+    ],
+    "a": [
+      "citation-1",
+      "citation-2",
+      "citation-3",
+      "citation-4",
+      "citation-5",
+      "citation-7",
+      "citation-8",
+      "citation-12",
+      "citation-13",
+      "citation-16",
+      "citation-19",
+      "citation-21",
+      "citation-22",
+      "citation-24",
+      "citation-25",
+      "citation-26",
+      "citation-27",
+      "citation-28",
+      "citation-29",
+      "citation-30"
+    ],
+    "class": [
+      "citation-1"
+    ],
+    "12-year-old": [
+      "citation-1"
+    ],
+    "students": [
+      "citation-1",
+      "citation-4",
+      "citation-26"
+    ],
+    "was": [
+      "citation-1"
+    ],
+    "instructed": [
+      "citation-1"
+    ],
+    "in": [
+      "citation-1",
+      "citation-2",
+      "citation-3",
+      "citation-4",
+      "citation-5",
+      "citation-7",
+      "citation-10",
+      "citation-14",
+      "citation-15",
+      "citation-16",
+      "citation-17",
+      "citation-18",
+      "citation-19",
+      "citation-20",
+      "citation-22",
+      "citation-23",
+      "citation-24",
+      "citation-29"
+    ],
+    "use": [
+      "citation-1",
+      "citation-3",
+      "citation-7",
+      "citation-10",
+      "citation-14",
+      "citation-18",
+      "citation-22",
+      "citation-25"
+    ],
+    "electronic": [
+      "citation-1",
+      "citation-11",
+      "citation-15",
+      "citation-26"
+    ],
+    "encyclopedia": [
+      "citation-1"
+    ],
+    "which": [
+      "citation-1",
+      "citation-19",
+      "citation-24",
+      "citation-25",
+      "citation-27"
+    ],
+    "they": [
+      "citation-1",
+      "citation-4"
+    ],
+    "used": [
+      "citation-1",
+      "citation-16"
+    ],
+    "as": [
+      "citation-1",
+      "citation-4",
+      "citation-22",
+      "citation-29"
+    ],
+    "source": [
+      "citation-1"
+    ],
+    "for": [
+      "citation-1",
+      "citation-3",
+      "citation-5",
+      "citation-6",
+      "citation-7",
+      "citation-8",
+      "citation-10",
+      "citation-12",
+      "citation-13",
+      "citation-16",
+      "citation-19",
+      "citation-20",
+      "citation-21",
+      "citation-24",
+      "citation-25",
+      "citation-26",
+      "citation-27"
+    ],
+    "projects": [
+      "citation-1"
+    ],
+    "and": [
+      "citation-1",
+      "citation-2",
+      "citation-3",
+      "citation-4",
+      "citation-5",
+      "citation-6",
+      "citation-7",
+      "citation-8",
+      "citation-9",
+      "citation-10",
+      "citation-11",
+      "citation-12",
+      "citation-14",
+      "citation-15",
+      "citation-16",
+      "citation-17",
+      "citation-18",
+      "citation-19",
+      "citation-20",
+      "citation-21",
+      "citation-22",
+      "citation-24",
+      "citation-25",
+      "citation-26",
+      "citation-27",
+      "citation-28",
+      "citation-29",
+      "citation-30"
+    ],
+    "to": [
+      "citation-1",
+      "citation-5",
+      "citation-6",
+      "citation-7",
+      "citation-15",
+      "citation-17",
+      "citation-19",
+      "citation-21",
+      "citation-22",
+      "citation-25",
+      "citation-26",
+      "citation-27",
+      "citation-28",
+      "citation-29",
+      "citation-30"
+    ],
+    "complete": [
+      "citation-1",
+      "citation-30"
+    ],
+    "skills": [
+      "citation-1",
+      "citation-22",
+      "citation-25"
+    ],
+    "tests": [
+      "citation-1",
+      "citation-24"
+    ],
+    "inefficient": [
+      "citation-1"
+    ],
+    "had": [
+      "citation-1"
+    ],
+    "difficulty": [
+      "citation-1"
+    ],
+    "creating": [
+      "citation-1"
+    ],
+    "requests": [
+      "citation-1"
+    ],
+    "information-related": [
+      "citation-1"
+    ],
+    "problems": [
+      "citation-1",
+      "citation-29"
+    ],
+    "(author/jkp)": [
+      "citation-1",
+      "citation-10",
+      "citation-12",
+      "citation-30"
+    ],
+    "provides": [
+      "citation-2",
+      "citation-8",
+      "citation-20",
+      "citation-26"
+    ],
+    "overview": [
+      "citation-2",
+      "citation-9"
+    ],
+    "robots": [
+      "citation-2"
+    ],
+    "that": [
+      "citation-2",
+      "citation-5",
+      "citation-6",
+      "citation-7",
+      "citation-8",
+      "citation-10",
+      "citation-12",
+      "citation-13",
+      "citation-14",
+      "citation-26",
+      "citation-27",
+      "citation-29",
+      "citation-30"
+    ],
+    "retrieve": [
+      "citation-2"
+    ],
+    "world": [
+      "citation-2",
+      "citation-10"
+    ],
+    "wide": [
+      "citation-2",
+      "citation-10"
+    ],
+    "web": [
+      "citation-2",
+      "citation-10"
+    ],
+    "documents": [
+      "citation-2",
+      "citation-11"
+    ],
+    "index": [
+      "citation-2",
+      "citation-8"
+    ],
+    "data": [
+      "citation-2",
+      "citation-7",
+      "citation-12",
+      "citation-18",
+      "citation-19"
+    ],
+    "then": [
+      "citation-2"
+    ],
+    "store": [
+      "citation-2"
+    ],
+    "it": [
+      "citation-2"
+    ],
+    "database": [
+      "citation-2",
+      "citation-5",
+      "citation-7",
+      "citation-14",
+      "citation-17",
+      "citation-18"
+    ],
+    "nine": [
+      "citation-2"
+    ],
+    "robot-generated": [
+      "citation-2"
+    ],
+    "databases": [
+      "citation-2",
+      "citation-4",
+      "citation-14",
+      "citation-19",
+      "citation-27"
+    ],
+    "are": [
+      "citation-2",
+      "citation-10",
+      "citation-15",
+      "citation-16",
+      "citation-20",
+      "citation-21",
+      "citation-24",
+      "citation-27",
+      "citation-29"
+    ],
+    "described": [
+      "citation-2",
+      "citation-10",
+      "citation-16",
+      "citation-28"
+    ],
+    "including": [
+      "citation-2",
+      "citation-14"
+    ],
+    "record": [
+      "citation-2"
+    ],
+    "content": [
+      "citation-2"
+    ],
+    "services": [
+      "citation-2",
+      "citation-9"
+    ],
+    "features": [
+      "citation-2",
+      "citation-6"
+    ],
+    "sample": [
+      "citation-2"
+    ],
+    "results;": [
+      "citation-2"
+    ],
+    "sidebars": [
+      "citation-2"
+    ],
+    "discuss": [
+      "citation-2"
+    ],
+    "controversy": [
+      "citation-2"
+    ],
+    "about": [
+      "citation-2",
+      "citation-25"
+    ],
+    "other": [
+      "citation-2",
+      "citation-6",
+      "citation-15"
+    ],
+    "resource": [
+      "citation-2"
+    ],
+    "discovery": [
+      "citation-2"
+    ],
+    "tools": [
+      "citation-2"
+    ],
+    "(lrw)": [
+      "citation-2",
+      "citation-4",
+      "citation-14",
+      "citation-17",
+      "citation-19",
+      "citation-20"
+    ],
+    "tetrachoric": [
+      "citation-3"
+    ],
+    "correlation": [
+      "citation-3"
+    ],
+    "experimental": [
+      "citation-3"
+    ],
+    "research": [
+      "citation-3",
+      "citation-10",
+      "citation-15",
+      "citation-22",
+      "citation-23",
+      "citation-27"
+    ],
+    "hypothesis": [
+      "citation-3"
+    ],
+    "testing": [
+      "citation-3"
+    ],
+    "efficiency": [
+      "citation-3"
+    ],
+    "computerized": [
+      "citation-3"
+    ],
+    "searching": [
+      "citation-3",
+      "citation-5",
+      "citation-14",
+      "citation-26",
+      "citation-29"
+    ],
+    "highlights": [
+      "citation-3",
+      "citation-4",
+      "citation-11",
+      "citation-14",
+      "citation-17"
+    ],
+    "include": [
+      "citation-3",
+      "citation-4",
+      "citation-11",
+      "citation-14",
+      "citation-17",
+      "citation-25"
+    ],
+    "recall": [
+      "citation-3"
+    ],
+    "relevance": [
+      "citation-3",
+      "citation-4"
+    ],
+    "precision": [
+      "citation-3",
+      "citation-6"
+    ],
+    "retrieval;": [
+      "citation-3"
+    ],
+    "spreadsheet;": [
+      "citation-3"
+    ],
+    "examples;": [
+      "citation-3"
+    ],
+    "limitations": [
+      "citation-3"
+    ],
+    "(author/lrw)": [
+      "citation-3",
+      "citation-21",
+      "citation-27"
+    ],
+    "discussion": [
+      "citation-4"
+    ],
+    "retrieval": [
+      "citation-4",
+      "citation-5",
+      "citation-6",
+      "citation-7",
+      "citation-9",
+      "citation-10",
+      "citation-15",
+      "citation-17",
+      "citation-19",
+      "citation-20",
+      "citation-21",
+      "citation-24",
+      "citation-27"
+    ],
+    "humanities": [
+      "citation-4",
+      "citation-30"
+    ],
+    "focuses": [
+      "citation-4"
+    ],
+    "on": [
+      "citation-4",
+      "citation-5",
+      "citation-7",
+      "citation-25"
+    ],
+    "study": [
+      "citation-4",
+      "citation-5",
+      "citation-27",
+      "citation-28"
+    ],
+    "graduate": [
+      "citation-4"
+    ],
+    "at": [
+      "citation-4",
+      "citation-11",
+      "citation-15",
+      "citation-16",
+      "citation-18",
+      "citation-22",
+      "citation-27"
+    ],
+    "indiana": [
+      "citation-4"
+    ],
+    "university": [
+      "citation-4",
+      "citation-15",
+      "citation-18"
+    ],
+    "conducted": [
+      "citation-4",
+      "citation-25",
+      "citation-27"
+    ],
+    "literature": [
+      "citation-4",
+      "citation-30"
+    ],
+    "searches": [
+      "citation-4",
+      "citation-25"
+    ],
+    "using": [
+      "citation-4",
+      "citation-5",
+      "citation-7",
+      "citation-13",
+      "citation-15",
+      "citation-24"
+    ],
+    "cd-rom": [
+      "citation-4",
+      "citation-27"
+    ],
+    "review": [
+      "citation-4",
+      "citation-30"
+    ],
+    "related": [
+      "citation-4",
+      "citation-27",
+      "citation-28"
+    ],
+    "assessments": [
+      "citation-4"
+    ],
+    "human-computer": [
+      "citation-4"
+    ],
+    "interaction": [
+      "citation-4",
+      "citation-21",
+      "citation-28"
+    ],
+    "indexing": [
+      "citation-4",
+      "citation-15",
+      "citation-16"
+    ],
+    "newspaper": [
+      "citation-5"
+    ],
+    "article": [
+      "citation-5"
+    ],
+    "this": [
+      "citation-5",
+      "citation-12",
+      "citation-21",
+      "citation-30"
+    ],
+    "analyzed": [
+      "citation-5"
+    ],
+    "effects": [
+      "citation-5"
+    ],
+    "ellipsis": [
+      "citation-5"
+    ],
+    "anaphor": [
+      "citation-5"
+    ],
+    "resolution": [
+      "citation-5"
+    ],
+    "proximity": [
+      "citation-5"
+    ],
+    "full-text": [
+      "citation-5"
+    ],
+    "database;": [
+      "citation-5"
+    ],
+    "keyword": [
+      "citation-5",
+      "citation-29"
+    ],
+    "pairs": [
+      "citation-5"
+    ],
+    "different": [
+      "citation-5",
+      "citation-24",
+      "citation-27"
+    ],
+    "categories": [
+      "citation-5"
+    ],
+    "were": [
+      "citation-5"
+    ],
+    "created": [
+      "citation-5"
+    ],
+    "findings": [
+      "citation-5"
+    ],
+    "indicate": [
+      "citation-5"
+    ],
+    "some": [
+      "citation-5"
+    ],
+    "method": [
+      "citation-5",
+      "citation-7",
+      "citation-8"
+    ],
+    "might": [
+      "citation-5"
+    ],
+    "be": [
+      "citation-5",
+      "citation-19",
+      "citation-25",
+      "citation-29"
+    ],
+    "developed": [
+      "citation-5",
+      "citation-26"
+    ],
+    "only": [
+      "citation-5"
+    ],
+    "proper": [
+      "citation-5"
+    ],
+    "name": [
+      "citation-5"
+    ],
+    "phrases": [
+      "citation-5",
+      "citation-26"
+    ],
+    "support": [
+      "citation-5"
+    ],
+    "keyword-based": [
+      "citation-5"
+    ],
+    "(author/aef)": [
+      "citation-5",
+      "citation-6",
+      "citation-7",
+      "citation-28",
+      "citation-29"
+    ],
+    "proposes": [
+      "citation-6"
+    ],
+    "extended": [
+      "citation-6",
+      "citation-10"
+    ],
+    "vector-processing": [
+      "citation-6"
+    ],
+    "scheme": [
+      "citation-6",
+      "citation-24"
+    ],
+    "extracts": [
+      "citation-6"
+    ],
+    "from": [
+      "citation-6",
+      "citation-12",
+      "citation-14",
+      "citation-16",
+      "citation-17",
+      "citation-21",
+      "citation-27",
+      "citation-30"
+    ],
+    "hypertext": [
+      "citation-6"
+    ],
+    "links": [
+      "citation-6"
+    ],
+    "enhance": [
+      "citation-6"
+    ],
+    "effectiveness": [
+      "citation-6"
+    ],
+    "evaluates": [
+      "citation-6"
+    ],
+    "impact": [
+      "citation-6"
+    ],
+    "bibliographic": [
+      "citation-6"
+    ],
+    "references": [
+      "citation-6",
+      "citation-21"
+    ],
+    "coupling": [
+      "citation-6"
+    ],
+    "cocitation": [
+      "citation-6"
+    ],
+    "document": [
+      "citation-6",
+      "citation-8",
+      "citation-11",
+      "citation-13",
+      "citation-20",
+      "citation-24"
+    ],
+    "representative": [
+      "citation-6"
+    ],
+    "relationships": [
+      "citation-6"
+    ],
+    "shows": [
+      "citation-6",
+      "citation-19"
+    ],
+    "do": [
+      "citation-6"
+    ],
+    "not": [
+      "citation-6",
+      "citation-10"
+    ],
+    "always": [
+      "citation-6"
+    ],
+    "improve": [
+      "citation-6"
+    ],
+    "average": [
+      "citation-6"
+    ],
+    "interdocument": [
+      "citation-6"
+    ],
+    "compensate": [
+      "citation-6"
+    ],
+    "appropriate": [
+      "citation-6"
+    ],
+    "choice": [
+      "citation-6"
+    ],
+    "discusses": [
+      "citation-7",
+      "citation-11",
+      "citation-21",
+      "citation-26",
+      "citation-29"
+    ],
+    "organizing": [
+      "citation-7"
+    ],
+    "augmenting": [
+      "citation-7"
+    ],
+    "complex": [
+      "citation-7",
+      "citation-10",
+      "citation-26"
+    ],
+    "make": [
+      "citation-7",
+      "citation-15"
+    ],
+    "automatic": [
+      "citation-7"
+    ],
+    "possible": [
+      "citation-7",
+      "citation-29",
+      "citation-30"
+    ],
+    "presents": [
+      "citation-7"
+    ],
+    "example": [
+      "citation-7",
+      "citation-17"
+    ],
+    "nature": [
+      "citation-7"
+    ],
+    "fungicides": [
+      "citation-7"
+    ],
+    "initial": [
+      "citation-7"
+    ],
+    "results": [
+      "citation-7",
+      "citation-27",
+      "citation-29"
+    ],
+    "trials": [
+      "citation-7"
+    ],
+    "with": [
+      "citation-7",
+      "citation-8",
+      "citation-13",
+      "citation-17",
+      "citation-26",
+      "citation-27",
+      "citation-28",
+      "citation-29"
+    ],
+    "potential": [
+      "citation-7"
+    ],
+    "suggest": [
+      "citation-7"
+    ],
+    "can": [
+      "citation-7",
+      "citation-19"
+    ],
+    "produce": [
+      "citation-7"
+    ],
+    "relevant": [
+      "citation-7"
+    ],
+    "responses": [
+      "citation-7"
+    ],
+    "queries": [
+      "citation-7",
+      "citation-24"
+    ],
+    "algorithm": [
+      "citation-8"
+    ],
+    "computer": [
+      "citation-8",
+      "citation-15",
+      "citation-18"
+    ],
+    "generation": [
+      "citation-8"
+    ],
+    "hierarchical": [
+      "citation-8"
+    ],
+    "indexes": [
+      "citation-8"
+    ],
+    "collections": [
+      "citation-8",
+      "citation-13"
+    ],
+    "resulting": [
+      "citation-8",
+      "citation-16"
+    ],
+    "when": [
+      "citation-8"
+    ],
+    "presented": [
+      "citation-8",
+      "citation-19"
+    ],
+    "graphical": [
+      "citation-8"
+    ],
+    "interface": [
+      "citation-8"
+    ],
+    "view": [
+      "citation-8",
+      "citation-21"
+    ],
+    "collection": [
+      "citation-8",
+      "citation-18"
+    ],
+    "permits": [
+      "citation-8"
+    ],
+    "general": [
+      "citation-8"
+    ],
+    "browsing": [
+      "citation-8"
+    ],
+    "informal": [
+      "citation-8"
+    ],
+    "activities": [
+      "citation-8"
+    ],
+    "via": [
+      "citation-8"
+    ],
+    "access": [
+      "citation-8",
+      "citation-11",
+      "citation-12",
+      "citation-14",
+      "citation-27",
+      "citation-29"
+    ],
+    "requires": [
+      "citation-8",
+      "citation-28"
+    ],
+    "no": [
+      "citation-8"
+    ],
+    "keyboard": [
+      "citation-8"
+    ],
+    "entry": [
+      "citation-8"
+    ],
+    "or": [
+      "citation-8",
+      "citation-26",
+      "citation-27"
+    ],
+    "prior": [
+      "citation-8"
+    ],
+    "knowledge": [
+      "citation-8",
+      "citation-17"
+    ],
+    "vocabulary": [
+      "citation-8",
+      "citation-29"
+    ],
+    "(author/jmv)": [
+      "citation-8",
+      "citation-22"
+    ],
+    "historical": [
+      "citation-9",
+      "citation-18"
+    ],
+    "development": [
+      "citation-9",
+      "citation-11",
+      "citation-12"
+    ],
+    "online": [
+      "citation-9",
+      "citation-11",
+      "citation-16",
+      "citation-27",
+      "citation-29"
+    ],
+    "systems": [
+      "citation-9",
+      "citation-14",
+      "citation-17",
+      "citation-20",
+      "citation-21",
+      "citation-27"
+    ],
+    "gives": [
+      "citation-9"
+    ],
+    "three": [
+      "citation-9",
+      "citation-23",
+      "citation-29"
+    ],
+    "pioneer": [
+      "citation-9"
+    ],
+    "groups": [
+      "citation-9"
+    ],
+    "age": [
+      "citation-9"
+    ],
+    "parallels": [
+      "citation-10"
+    ],
+    "between": [
+      "citation-10",
+      "citation-15",
+      "citation-17"
+    ],
+    "subsistence": [
+      "citation-10"
+    ],
+    "foraging": [
+      "citation-10"
+    ],
+    "scholarly": [
+      "citation-10"
+    ],
+    "seeking": [
+      "citation-10",
+      "citation-27"
+    ],
+    "context": [
+      "citation-10"
+    ],
+    "suggests": [
+      "citation-10",
+      "citation-30"
+    ],
+    "prevailing": [
+      "citation-10"
+    ],
+    "paradigm": [
+      "citation-10"
+    ],
+    "does": [
+      "citation-10"
+    ],
+    "capture": [
+      "citation-10"
+    ],
+    "behavior": [
+      "citation-10",
+      "citation-30"
+    ],
+    "stimuli": [
+      "citation-10"
+    ],
+    "drives": [
+      "citation-10"
+    ],
+    "scholars'": [
+      "citation-10"
+    ],
+    "quests": [
+      "citation-10"
+    ],
+    "new": [
+      "citation-10"
+    ],
+    "ideas": [
+      "citation-10"
+    ],
+    "insights": [
+      "citation-10"
+    ],
+    "questions": [
+      "citation-10"
+    ],
+    "suggested": [
+      "citation-10"
+    ],
+    "optimal": [
+      "citation-10",
+      "citation-24"
+    ],
+    "metaphor": [
+      "citation-10"
+    ],
+    "accessing": [
+      "citation-11"
+    ],
+    "european": [
+      "citation-11"
+    ],
+    "telecommunications": [
+      "citation-11"
+    ],
+    "satellite": [
+      "citation-11"
+    ],
+    "organization": [
+      "citation-11"
+    ],
+    "(eutelsat)": [
+      "citation-11"
+    ],
+    "off-site": [
+      "citation-11"
+    ],
+    "paper": [
+      "citation-11",
+      "citation-12"
+    ],
+    "storage": [
+      "citation-11",
+      "citation-12",
+      "citation-17"
+    ],
+    "management": [
+      "citation-11",
+      "citation-12",
+      "citation-14",
+      "citation-17",
+      "citation-19"
+    ],
+    "benefits": [
+      "citation-11",
+      "citation-16"
+    ],
+    "eutelsat": [
+      "citation-11"
+    ],
+    "standard": [
+      "citation-11",
+      "citation-15"
+    ],
+    "ibm": [
+      "citation-11"
+    ],
+    "software": [
+      "citation-11",
+      "citation-12"
+    ],
+    "implementation": [
+      "citation-11"
+    ],
+    "process": [
+      "citation-11",
+      "citation-13",
+      "citation-26"
+    ],
+    "future": [
+      "citation-11"
+    ],
+    "enhancements": [
+      "citation-11"
+    ],
+    "(aef)": [
+      "citation-11",
+      "citation-24",
+      "citation-25",
+      "citation-26"
+    ],
+    "addresses": [
+      "citation-12"
+    ],
+    "problem": [
+      "citation-12"
+    ],
+    "techniques": [
+      "citation-12",
+      "citation-19"
+    ],
+    "efficiently": [
+      "citation-12"
+    ],
+    "retrieving": [
+      "citation-12"
+    ],
+    "requested": [
+      "citation-12"
+    ],
+    "subsets": [
+      "citation-12"
+    ],
+    "large": [
+      "citation-12",
+      "citation-13"
+    ],
+    "sets": [
+      "citation-12"
+    ],
+    "mass": [
+      "citation-12"
+    ],
+    "devices": [
+      "citation-12"
+    ],
+    "algorithms": [
+      "citation-12",
+      "citation-20"
+    ],
+    "facilitate": [
+      "citation-12"
+    ],
+    "partitioning": [
+      "citation-12"
+    ],
+    "set": [
+      "citation-12"
+    ],
+    "into": [
+      "citation-12",
+      "citation-24"
+    ],
+    "multiple": [
+      "citation-12",
+      "citation-27"
+    ],
+    "\"clusters\"": [
+      "citation-12"
+    ],
+    "reflect": [
+      "citation-12"
+    ],
+    "their": [
+      "citation-12",
+      "citation-27"
+    ],
+    "expected": [
+      "citation-12"
+    ],
+    "approximate": [
+      "citation-13"
+    ],
+    "ranking": [
+      "citation-13"
+    ],
+    "uses": [
+      "citation-13",
+      "citation-30"
+    ],
+    "compact": [
+      "citation-13"
+    ],
+    "array": [
+      "citation-13"
+    ],
+    "in-memory": [
+      "citation-13"
+    ],
+    "low-precision": [
+      "citation-13"
+    ],
+    "approximations": [
+      "citation-13"
+    ],
+    "length": [
+      "citation-13"
+    ],
+    "combined": [
+      "citation-13"
+    ],
+    "another": [
+      "citation-13"
+    ],
+    "rule": [
+      "citation-13"
+    ],
+    "reducing": [
+      "citation-13"
+    ],
+    "memory": [
+      "citation-13"
+    ],
+    "required": [
+      "citation-13"
+    ],
+    "partial": [
+      "citation-13"
+    ],
+    "similarity": [
+      "citation-13"
+    ],
+    "accumulators": [
+      "citation-13"
+    ],
+    "approximation": [
+      "citation-13"
+    ],
+    "heuristic": [
+      "citation-13"
+    ],
+    "allows": [
+      "citation-13"
+    ],
+    "less": [
+      "citation-13"
+    ],
+    "than": [
+      "citation-13",
+      "citation-30"
+    ],
+    "one": [
+      "citation-13"
+    ],
+    "byte": [
+      "citation-13"
+    ],
+    "per": [
+      "citation-13"
+    ],
+    "(20": [
+      "citation-13"
+    ],
+    "references)": [
+      "citation-13",
+      "citation-14",
+      "citation-15",
+      "citation-16",
+      "citation-17",
+      "citation-19",
+      "citation-20"
+    ],
+    "(krn)": [
+      "citation-13",
+      "citation-15",
+      "citation-16"
+    ],
+    "changes": [
+      "citation-14"
+    ],
+    "have": [
+      "citation-14"
+    ],
+    "occurred": [
+      "citation-14"
+    ],
+    "1987-93": [
+      "citation-14"
+    ],
+    "topics": [
+      "citation-14"
+    ],
+    "addressed": [
+      "citation-14"
+    ],
+    "types": [
+      "citation-14"
+    ],
+    "cd-roms;": [
+      "citation-14"
+    ],
+    "enduser": [
+      "citation-14"
+    ],
+    "interface;": [
+      "citation-14"
+    ],
+    "selection;": [
+      "citation-14"
+    ],
+    "library": [
+      "citation-14",
+      "citation-15",
+      "citation-22",
+      "citation-27"
+    ],
+    "instruction": [
+      "citation-14"
+    ],
+    "primary": [
+      "citation-14"
+    ],
+    "literature;": [
+      "citation-14"
+    ],
+    "economic": [
+      "citation-14"
+    ],
+    "issues;": [
+      "citation-14"
+    ],
+    "users;": [
+      "citation-14"
+    ],
+    "process;": [
+      "citation-14"
+    ],
+    "improving": [
+      "citation-14"
+    ],
+    "end-user": [
+      "citation-14"
+    ],
+    "(231": [
+      "citation-14"
+    ],
+    "collaboration": [
+      "citation-15"
+    ],
+    "california": [
+      "citation-15"
+    ],
+    "berkeley": [
+      "citation-15"
+    ],
+    "four": [
+      "citation-15"
+    ],
+    "universities": [
+      "citation-15"
+    ],
+    "develop": [
+      "citation-15",
+      "citation-26"
+    ],
+    "interoperable": [
+      "citation-15"
+    ],
+    "servers": [
+      "citation-15"
+    ],
+    "containing": [
+      "citation-15"
+    ],
+    "each": [
+      "citation-15"
+    ],
+    "participant's": [
+      "citation-15"
+    ],
+    "science": [
+      "citation-15"
+    ],
+    "technical": [
+      "citation-15"
+    ],
+    "reports": [
+      "citation-15"
+    ],
+    "them": [
+      "citation-15"
+    ],
+    "available": [
+      "citation-15",
+      "citation-25",
+      "citation-29"
+    ],
+    "over": [
+      "citation-15"
+    ],
+    "internet": [
+      "citation-15"
+    ],
+    "protocols": [
+      "citation-15"
+    ],
+    "proposed": [
+      "citation-15"
+    ],
+    "architecture": [
+      "citation-15"
+    ],
+    "approaches": [
+      "citation-15"
+    ],
+    "issues": [
+      "citation-15"
+    ],
+    "libraries": [
+      "citation-15",
+      "citation-25"
+    ],
+    "covered": [
+      "citation-15"
+    ],
+    "(11": [
+      "citation-15"
+    ],
+    "national": [
+      "citation-16"
+    ],
+    "aeronautics": [
+      "citation-16"
+    ],
+    "space": [
+      "citation-16",
+      "citation-21"
+    ],
+    "administration": [
+      "citation-16"
+    ],
+    "(nasa)": [
+      "citation-16"
+    ],
+    "lexical": [
+      "citation-16"
+    ],
+    "dictionary": [
+      "citation-16"
+    ],
+    "(nld)": [
+      "citation-16"
+    ],
+    "machine-aided": [
+      "citation-16"
+    ],
+    "nasa": [
+      "citation-16"
+    ],
+    "center": [
+      "citation-16"
+    ],
+    "aerospace": [
+      "citation-16"
+    ],
+    "(casi)": [
+      "citation-16"
+    ],
+    "functions": [
+      "citation-16"
+    ],
+    "nld": [
+      "citation-16"
+    ],
+    "components": [
+      "citation-16"
+    ],
+    "detail": [
+      "citation-16"
+    ],
+    "production": [
+      "citation-16"
+    ],
+    "quality": [
+      "citation-16"
+    ],
+    "casi": [
+      "citation-16"
+    ],
+    "discussed": [
+      "citation-16",
+      "citation-20",
+      "citation-27"
+    ],
+    "(contains": [
+      "citation-16",
+      "citation-17",
+      "citation-19",
+      "citation-20"
+    ],
+    "investigates": [
+      "citation-17",
+      "citation-24"
+    ],
+    "role": [
+      "citation-17"
+    ],
+    "enhancement": [
+      "citation-17"
+    ],
+    "base": [
+      "citation-17"
+    ],
+    "considers": [
+      "citation-17"
+    ],
+    "relationship": [
+      "citation-17"
+    ],
+    "artificial": [
+      "citation-17"
+    ],
+    "intelligence": [
+      "citation-17"
+    ],
+    "unstructured": [
+      "citation-17"
+    ],
+    "databases;": [
+      "citation-17"
+    ],
+    "internal": [
+      "citation-17"
+    ],
+    "forms": [
+      "citation-17"
+    ],
+    "documents;": [
+      "citation-17"
+    ],
+    "relational": [
+      "citation-17"
+    ],
+    "operations;": [
+      "citation-17"
+    ],
+    "intelligent": [
+      "citation-17"
+    ],
+    "illustrates": [
+      "citation-18"
+    ],
+    "banks": [
+      "citation-18"
+    ],
+    "history": [
+      "citation-18"
+    ],
+    "examining": [
+      "citation-18"
+    ],
+    "medieval": [
+      "citation-18"
+    ],
+    "early": [
+      "citation-18"
+    ],
+    "modern": [
+      "citation-18"
+    ],
+    "bank": [
+      "citation-18"
+    ],
+    "(memdb)": [
+      "citation-18"
+    ],
+    "located": [
+      "citation-18"
+    ],
+    "rutgers": [
+      "citation-18"
+    ],
+    "states": [
+      "citation-18"
+    ],
+    "contains": [
+      "citation-18",
+      "citation-21"
+    ],
+    "expanding": [
+      "citation-18"
+    ],
+    "monetary": [
+      "citation-18"
+    ],
+    "price/wage": [
+      "citation-18"
+    ],
+    "includes": [
+      "citation-18"
+    ],
+    "instructions": [
+      "citation-18"
+    ],
+    "examples": [
+      "citation-18"
+    ],
+    "annotated": [
+      "citation-18"
+    ],
+    "bibliography": [
+      "citation-18"
+    ],
+    "(cfr)": [
+      "citation-18"
+    ],
+    "how": [
+      "citation-19",
+      "citation-29"
+    ],
+    "deductive": [
+      "citation-19"
+    ],
+    "applied": [
+      "citation-19",
+      "citation-21"
+    ],
+    "utilization": [
+      "citation-19"
+    ],
+    "value": [
+      "citation-19"
+    ],
+    "classifications": [
+      "citation-19"
+    ],
+    "representation": [
+      "citation-19"
+    ],
+    "supports": [
+      "citation-19"
+    ],
+    "transitive": [
+      "citation-19"
+    ],
+    "computation": [
+      "citation-19"
+    ],
+    "is": [
+      "citation-19",
+      "citation-20",
+      "citation-30"
+    ],
+    "defined": [
+      "citation-19",
+      "citation-25"
+    ],
+    "operation-oriented": [
+      "citation-19"
+    ],
+    "query": [
+      "citation-19"
+    ],
+    "language": [
+      "citation-19"
+    ],
+    "tailored": [
+      "citation-19"
+    ],
+    "classification-based": [
+      "citation-19"
+    ],
+    "fact": [
+      "citation-19"
+    ],
+    "fast": [
+      "citation-20"
+    ],
+    "dynamic": [
+      "citation-20"
+    ],
+    "update": [
+      "citation-20"
+    ],
+    "b-trees": [
+      "citation-20"
+    ],
+    "discussed;": [
+      "citation-20"
+    ],
+    "m-b-t": [
+      "citation-20"
+    ],
+    "file": [
+      "citation-20"
+    ],
+    "directory": [
+      "citation-20"
+    ],
+    "structure": [
+      "citation-20"
+    ],
+    "explained;": [
+      "citation-20"
+    ],
+    "insertions": [
+      "citation-20"
+    ],
+    "deletions": [
+      "citation-20"
+    ],
+    "inverted": [
+      "citation-20"
+    ],
+    "files": [
+      "citation-20"
+    ],
+    "described;": [
+      "citation-20"
+    ],
+    "performance": [
+      "citation-20",
+      "citation-24"
+    ],
+    "evaluation": [
+      "citation-20"
+    ],
+    "appendix": [
+      "citation-20"
+    ],
+    "formal": [
+      "citation-20"
+    ],
+    "definition": [
+      "citation-20"
+    ],
+    "basic": [
+      "citation-21"
+    ],
+    "elements": [
+      "citation-21"
+    ],
+    "global": [
+      "citation-21"
+    ],
+    "cognitive": [
+      "citation-21"
+    ],
+    "theory": [
+      "citation-21"
+    ],
+    "(ir)": [
+      "citation-21"
+    ],
+    "point": [
+      "citation-21"
+    ],
+    "within": [
+      "citation-21"
+    ],
+    "framework": [
+      "citation-21"
+    ],
+    "outlined": [
+      "citation-21"
+    ],
+    "principles": [
+      "citation-21"
+    ],
+    "underlying": [
+      "citation-21"
+    ],
+    "concept": [
+      "citation-21"
+    ],
+    "polyrepresentation": [
+      "citation-21"
+    ],
+    "simultaneously": [
+      "citation-21"
+    ],
+    "user's": [
+      "citation-21"
+    ],
+    "ir": [
+      "citation-21"
+    ],
+    "social": [
+      "citation-22"
+    ],
+    "studies": [
+      "citation-22"
+    ],
+    "project": [
+      "citation-22",
+      "citation-27"
+    ],
+    "cooperatively": [
+      "citation-22"
+    ],
+    "planned": [
+      "citation-22",
+      "citation-26"
+    ],
+    "taught": [
+      "citation-22"
+    ],
+    "media": [
+      "citation-22"
+    ],
+    "specialist": [
+      "citation-22"
+    ],
+    "classroom": [
+      "citation-22"
+    ],
+    "teacher": [
+      "citation-22"
+    ],
+    "cartersville": [
+      "citation-22"
+    ],
+    "middle": [
+      "citation-22"
+    ],
+    "school": [
+      "citation-22",
+      "citation-25"
+    ],
+    "georgia": [
+      "citation-22"
+    ],
+    "teaches": [
+      "citation-22"
+    ],
+    "seventh": [
+      "citation-22"
+    ],
+    "graders": [
+      "citation-22"
+    ],
+    "traditional": [
+      "citation-22"
+    ],
+    "well": [
+      "citation-22"
+    ],
+    "technological": [
+      "citation-22"
+    ],
+    "computer-based": [
+      "citation-22"
+    ],
+    "identify": [
+      "citation-22"
+    ],
+    "locate": [
+      "citation-22"
+    ],
+    "select": [
+      "citation-22"
+    ],
+    "interpret": [
+      "citation-22"
+    ],
+    "effective": [
+      "citation-23"
+    ],
+    "notetaking": [
+      "citation-23"
+    ],
+    "student": [
+      "citation-23",
+      "citation-25"
+    ],
+    "consists": [
+      "citation-23"
+    ],
+    "steps": [
+      "citation-23"
+    ],
+    "character-based": [
+      "citation-24"
+    ],
+    "chinese": [
+      "citation-24"
+    ],
+    "text": [
+      "citation-24"
+    ],
+    "monogram": [
+      "citation-24"
+    ],
+    "keys": [
+      "citation-24"
+    ],
+    "bigram": [
+      "citation-24"
+    ],
+    "encoded": [
+      "citation-24"
+    ],
+    "signatures": [
+      "citation-24"
+    ],
+    "verifies": [
+      "citation-24"
+    ],
+    "theoretical": [
+      "citation-24"
+    ],
+    "predictions": [
+      "citation-24"
+    ],
+    "weight": [
+      "citation-24"
+    ],
+    "assignments": [
+      "citation-24"
+    ],
+    "minimal": [
+      "citation-24"
+    ],
+    "false": [
+      "citation-24"
+    ],
+    "hit": [
+      "citation-24"
+    ],
+    "rate": [
+      "citation-24"
+    ],
+    "experiments": [
+      "citation-24"
+    ],
+    "real": [
+      "citation-24"
+    ],
+    "corpus": [
+      "citation-24"
+    ],
+    "disyllabic": [
+      "citation-24"
+    ],
+    "association": [
+      "citation-24"
+    ],
+    "values": [
+      "citation-24"
+    ],
+    "two": [
+      "citation-25"
+    ],
+    "models": [
+      "citation-25"
+    ],
+    "but": [
+      "citation-25"
+    ],
+    "trained": [
+      "citation-25"
+    ],
+    "searcher": [
+      "citation-25"
+    ],
+    "student-conducted": [
+      "citation-25"
+    ],
+    "teach": [
+      "citation-25"
+    ],
+    "decisions": [
+      "citation-25"
+    ],
+    "model": [
+      "citation-25"
+    ],
+    "(or": [
+      "citation-25"
+    ],
+    "combination)": [
+      "citation-25"
+    ],
+    "should": [
+      "citation-25",
+      "citation-29"
+    ],
+    "based": [
+      "citation-25"
+    ],
+    "resources": [
+      "citation-25",
+      "citation-26"
+    ],
+    "purposes": [
+      "citation-25"
+    ],
+    "conducting": [
+      "citation-25"
+    ],
+    "analytical": [
+      "citation-26"
+    ],
+    "enables": [
+      "citation-26"
+    ],
+    "searchers": [
+      "citation-26",
+      "citation-28"
+    ],
+    "strategy": [
+      "citation-26"
+    ],
+    "combining": [
+      "citation-26"
+    ],
+    "words": [
+      "citation-26"
+    ],
+    "boolean": [
+      "citation-26"
+    ],
+    "operators": [
+      "citation-26"
+    ],
+    "defines": [
+      "citation-26"
+    ],
+    "simple": [
+      "citation-26"
+    ],
+    "logic": [
+      "citation-26"
+    ],
+    "truncation": [
+      "citation-26"
+    ],
+    "guidelines": [
+      "citation-26"
+    ],
+    "teaching": [
+      "citation-26"
+    ],
+    "reported": [
+      "citation-27"
+    ],
+    "investigated": [
+      "citation-27"
+    ],
+    "extent": [
+      "citation-27"
+    ],
+    "academic": [
+      "citation-27"
+    ],
+    "end": [
+      "citation-27"
+    ],
+    "sessions": [
+      "citation-27"
+    ],
+    "public": [
+      "citation-27",
+      "citation-29"
+    ],
+    "catalogs": [
+      "citation-27",
+      "citation-29"
+    ],
+    "stages": [
+      "citation-27"
+    ],
+    "implications": [
+      "citation-27"
+    ],
+    "training": [
+      "citation-27"
+    ],
+    "design": [
+      "citation-27",
+      "citation-28"
+    ],
+    "further": [
+      "citation-27"
+    ],
+    "user-centered": [
+      "citation-28"
+    ],
+    "catalog": [
+      "citation-28"
+    ],
+    "records": [
+      "citation-28"
+    ],
+    "user": [
+      "citation-28",
+      "citation-29"
+    ],
+    "behaviors": [
+      "citation-28"
+    ],
+    "cognition": [
+      "citation-28"
+    ],
+    "during": [
+      "citation-28"
+    ],
+    "phases": [
+      "citation-28"
+    ],
+    "pilot": [
+      "citation-28"
+    ],
+    "searches;": [
+      "citation-28"
+    ],
+    "generally": [
+      "citation-28"
+    ],
+    "knew": [
+      "citation-28"
+    ],
+    "title": [
+      "citation-28"
+    ],
+    "publication": [
+      "citation-28"
+    ],
+    "date": [
+      "citation-28"
+    ],
+    "page": [
+      "citation-28"
+    ],
+    "numbers": [
+      "citation-28"
+    ],
+    "and/or": [
+      "citation-28"
+    ],
+    "author": [
+      "citation-28"
+    ],
+    "examines": [
+      "citation-29"
+    ],
+    "aspects": [
+      "citation-29"
+    ],
+    "solution": [
+      "citation-29"
+    ],
+    "subject": [
+      "citation-29"
+    ],
+    "(opacs)": [
+      "citation-29"
+    ],
+    "satisfaction": [
+      "citation-29"
+    ],
+    "controlled": [
+      "citation-29"
+    ],
+    "offered": [
+      "citation-29"
+    ],
+    "opac": [
+      "citation-29"
+    ],
+    "interfaces": [
+      "citation-29"
+    ],
+    "concludes": [
+      "citation-29"
+    ],
+    "made": [
+      "citation-29"
+    ],
+    "easily": [
+      "citation-29"
+    ],
+    "improved": [
+      "citation-29"
+    ],
+    "explanations": [
+      "citation-29"
+    ],
+    "more": [
+      "citation-30"
+    ],
+    "understanding": [
+      "citation-30"
+    ],
+    "now": [
+      "citation-30"
+    ],
+    "needs": [
+      "citation-30"
+    ],
+    "information-seeking": [
+      "citation-30"
+    ],
+    "scholar": [
+      "citation-30"
+    ],
+    "current": [
+      "citation-30"
+    ],
+    "portrait": [
+      "citation-30"
+    ],
+    "scholars": [
+      "citation-30"
+    ],
+    "client": [
+      "citation-30"
+    ],
+    "group": [
+      "citation-30"
+    ],
+    "diverse": [
+      "citation-30"
+    ],
+    "previously": [
+      "citation-30"
+    ],
+    "assumed": [
+      "citation-30"
+    ]
+  }
+}

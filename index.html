@@ -114,52 +114,117 @@
         </form>
         <input type="file" name="file" id="file">
 
+        <div class='results'>
+
+        </div>
     <script>
+      var fs = require("fs");
+
+      const createSearchResult = (_authors, _title, _abstract) => {
+        const result = document.createElement("div");
+        result.className = 'search-result';
+
+        const title = document.createElement('h2');
+        const author = document.createElement('h3');
+        const abstract = document.createElement('p');
+
+        let text = document.createTextNode(_title);
+        title.appendChild(text);
+
+        text = document.createTextNode(_authors);
+        author.appendChild(text);
+
+        text = document.createTextNode(_abstract);
+        abstract.appendChild(text);
+
+        result.appendChild(title);
+        result.appendChild(author);
+        result.appendChild(abstract);
+
+        return result;
+      }
+
       document.querySelector('.search-form').addEventListener('submit', function(e) {
         e.preventDefault();
 
+        // clear search results
+        document.querySelector('.results').innerHTML = '';
+
         // check if advanced search enabled
         const isAdvancedEnabled = document.getElementById('advanced').checked;
+        let results = [];
 
         if (isAdvancedEnabled) {
 
         } else {
           // get search term
-          const searchTerm = document.getElementById("result").value
+          const searchTerm = document.getElementById("result").value.toLowerCase();
           
           // get search type
           const searchType = document.querySelector('.search-type').value;
 
-          switch (searchType) {
-            case 'Authors':
-              break;
-            
-            case 'Title':
-              break;
+          // read index
+          fs.readFile('./index.json', 'utf8', (error, data) => {
+            if (error) {
+              throw error;
+            }
 
-            case 'Keyword':
-              break;
-          }
-        }
-        
-          var results = []; 
-          //console.log(txt);
+            const db = JSON.parse(fs.readFileSync('./object.json', 'utf8'));
+            const index = JSON.parse(data);
 
-          if( keySearch == "Authors"){
-           
-            for (var i = 0 ; i < obj.list.length ; i++)
-            {
-                if (object.json[i][keySearch] == valueSearch) {
-                    results.push(obj.list[i]);
+            switch (searchType) {
+              case 'Authors':
+              {
+                let citations  = index.Authors[searchTerm] || [];
+
+                if (citations.length) {
+                  for (citation of citations) {
+                    results.push(db[citation]);
+                  }
+                }
+                break;
+                
+              }
+              case 'Title':
+              {
+                let citations = index.Title[searchTerm] || [];
+
+                if (citations.length) {
+                  for (citation of citations) {
+                    results.push(db[citation]);
+                  }
+                }
+                break;
+              }
+  
+              case 'Keyword':
+                {
+                  let citations = index.Abstract[searchTerm] || [];
+  
+                  if (citations.length) {
+                    for (citation of citations) {
+                      results.push(db[citation]);
+                    }
+                  }
+                  break;
                 }
             }
-            console.log(results);
-          } else if ( keySearch == 'Title'){
-            
-          }
-          else{
-            
-          }  
+
+            if (results) {
+              const resultsContainer = document.querySelector('.results');
+
+              for (result of results) {
+                resultsContainer.appendChild(
+                  createSearchResult(
+                    result.Authors, 
+                    result.Title, 
+                    result.Abstract
+                  )
+                );
+              }
+            }
+          });
+        }
       });
 
         document.querySelector('#advanced').onchange = function(e) 
@@ -217,7 +282,43 @@
                     data[`citation-${currentCitation}`] = {};
                     data[`citation-${currentCitation}`][currentLine] = true;
                   }
-                }              
+                }
+              }
+
+              // index data
+              const indexed = {
+                'Authors': {},
+                'Title': {},
+                'Abstract': {}
+              };
+              const dataKeys = Object.keys(data);
+              const doIndexing = (citation, indexKey) => {
+                let currentDataBeingIndexed = data[citation][indexKey];
+
+                // remove punctuations
+                currentDataBeingIndexed = currentDataBeingIndexed.replace(/[,.]/g, '');
+
+                //split authors
+                let splitCurrentDataBeingIndexed = currentDataBeingIndexed.split(" ");
+
+                for (let currentData of splitCurrentDataBeingIndexed) {
+                  const current = currentData.toLowerCase();
+
+                  if (indexed[indexKey][current]) {
+                    if (indexed[indexKey][current].indexOf(citation) === -1) {
+                      indexed[indexKey][current].push(citation);
+                    }
+                  } else {
+                    indexed[indexKey][current] = [citation];
+                  }
+                }
+              };
+
+              for (let citation of dataKeys) {
+                //index author
+                doIndexing(citation, 'Authors');
+                doIndexing(citation, 'Title');
+                doIndexing(citation, 'Abstract');
               }
 
               fs.writeFile('./object.json', JSON.stringify(data, null, 2), (err) => {
@@ -226,6 +327,14 @@
                     return;
                 };
                 console.log("File has been created");
+              });
+
+              fs.writeFile('./index.json', JSON.stringify(indexed, null, 2), (err) => {
+                if (err) {
+                  console.error(err);
+                  return;
+                };
+                console.log("Done indexing.");
               });
             };
             reader.readAsText(file);
